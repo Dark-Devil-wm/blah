@@ -1,0 +1,6 @@
+{
+  "name": "Muscles Mates Fitness Club",
+  "description": "Premium luxury fitness club in Lahore. Elite equipment, personal training, and a world-class environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
